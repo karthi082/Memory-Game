@@ -1,0 +1,1 @@
+This Memory Game is a fun and interactive web game built using HTML, CSS, and JavaScript. Players flip cards to find matching pairs, with the game tracking flipped cards and checking for matches. The game ends when all pairs are successfully matched. It features a reset button to restart the game at any time, and basic animations for flipping cards.
